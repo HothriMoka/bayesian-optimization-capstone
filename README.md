@@ -196,7 +196,7 @@ This repository includes comprehensive documentation:
 
 **Your Name**  
 Machine Learning Capstone Project  
-[Your LinkedIn] | [Your Email]
+Hothri Moka | hmoka2@ic.ac.uk
 
 ## License
 
@@ -209,6 +209,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Course instructors and teaching assistants
 
 ---
-
-*For questions or feedback, please open an issue or contact the repository owner.*
-
