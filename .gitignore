@@ -172,6 +172,11 @@ leaderboard-rank-*.csv
 # CSV data files (exclude unless specifically needed)
 1023_data.csv
 
+# Project-specific documentation to exclude
+CONTRIBUTING.md
+GITHUB_PUSH_GUIDE.md
+PROJECT_SUMMARY.md
+
 # Temporary and backup files
 *.bak
 *.swp
