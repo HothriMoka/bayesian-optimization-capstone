@@ -198,4 +198,6 @@ checkpoints/
 # Submission files (if generated)
 submission*.txt
 submission*.csv
-
+GITHUB_PUSH_GUIDE.md
+CONTRIBUTING.md
+PROJECT_SUMMARY.md
