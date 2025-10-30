@@ -71,14 +71,14 @@ pip install -r requirements.txt
 
 The project uses pre-generated initial data for 8 different optimization functions with varying dimensionality:
 
-- **Function 1**: 2D input space (10 initial samples)
-- **Function 2**: 2D input space (10 initial samples)
-- **Function 3**: 3D input space (15 initial samples)
-- **Function 4**: 4D input space (30 initial samples)
-- **Function 5**: 4D input space (20 initial samples)
-- **Function 6**: 5D input space (20 initial samples)
-- **Function 7**: 6D input space (30 initial samples)
-- **Function 8**: 8D input space (40 initial samples)
+- **Function 1**: 2D input space 
+- **Function 2**: 2D input space 
+- **Function 3**: 3D input space 
+- **Function 4**: 4D input space 
+- **Function 5**: 4D input space 
+- **Function 6**: 5D input space 
+- **Function 7**: 6D input space 
+- **Function 8**: 8D input space 
 
 All inputs are normalized to the range [0, 1] and outputs represent function evaluations at those points.
 
